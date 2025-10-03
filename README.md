@@ -1,16 +1,23 @@
-# React + Vite
+🔡 String Generator App
+A simple Random String Generator App built with React.js and Tailwind CSS.
+You can generate random strings of custom length by entering a number and clicking the Generate button.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+  1.🎨 Built with React.js and styled using Tailwind CSS
+  2.🔢 User can enter desired string length (with limit, e.g., 1–32)
+  3.⚡ Instant random string generation
+  4.📱 Responsive and clean UI
+  5.🔒 No external dependencies except React + Tailwind
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+  1.React.js ⚛️
+  2.JavaScript (ES6+)
+  3.Tailwind CSS 🎨
+  4.HTML
+  5.CSS
 
-## React Compiler
+Images:
+  <img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/ebfb2f12-871d-4e81-be28-ee310583df94" />
+  <img width="1913" height="854" alt="image" src="https://github.com/user-attachments/assets/b69240d7-943c-475c-aced-93be4b842c17" />
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
